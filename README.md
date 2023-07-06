@@ -1,2 +1,2 @@
 # Our-Project
-This is Oure Project
+This is Our Project
